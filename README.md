@@ -5,32 +5,6 @@
 学生宿舍管理系统
 
 ## 架构说明
-
-Spring Boot Web
-
-Spring Boot Data Jpa
-
-Spring Boot Data Rest
-
-SpringMVC
-
-Bootstrap 4
-
-Ajax
-
-MySQL
-
-hikariCP
-
-JQuery
-
-gijgo
-
-font-awesome
-
-bootstrap-table
-
-sweetalert
 后端基于主流的ssm框架
 
 在界面展示方面,使用了前端流行的框架Bootstrap来实现页面布局和样式,配合jQuery实现了必要的前端交互逻辑。使用开源框架Ajax实现了页面异步交互,优化了用户体验。系统的数据存储使用了高性能的MySQL关系型数据库,通过Hikari连接池进行数据库连接池的管理优化数据库访问性能。
